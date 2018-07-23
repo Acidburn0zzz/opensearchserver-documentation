@@ -2,4 +2,4 @@
 The  (next) documentation of OpenSearchServer
 
 - [English](en)
-- [Françai](fr)
+- [Français](fr)
