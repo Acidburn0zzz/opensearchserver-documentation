@@ -2,6 +2,7 @@
   {% assign doclist = site.pages | sort: 'weight' %}
   {% for item in doclist %}
   {% if item.lang == page.lang %}
+  {% if item.title %}
   <li>
     {% if item.url == page.url %}
     <a href="{{ site.github.url }}{{ item.url }}"><strong>{{ item.title }}</strong></a>
@@ -13,6 +14,7 @@
     {% endif %}
     <hr/>
   </li>
+  {% endif %}
   {% endif %}
   {% endfor %}
 </ul>
