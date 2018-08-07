@@ -4,7 +4,6 @@ Bienvenue!
 OpenSearchServer est un acteur engagé depuis plus de 10 ans pour la vulgarisation des solutions de moteur de recherche.
 
 Notre objectif est de faciliter au maximum l'accès à des fonctionnalités de recherche à l'état de l'art.
-
 Nous nous attachons à réduire au maximum la complexité pour vous permettre de vous concentrer sur votre métier.
 
 Avec OpenSearchServer 2.0 vous disposez des fonctionnalités principales suivantes:
