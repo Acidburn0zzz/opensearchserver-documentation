@@ -20,4 +20,4 @@ Pour chaque compte on dispose des informations suivantes:
 - Account name: le nom du compte.
 - Permission: les privilèges dont vous disposez pour ce compte.
 
-Le bouton EDIT vous permet d'accéder à la [gestion du compte](/fr/account-edition.md).
+Le bouton EDIT vous permet d'accéder à la [gestion du compte](/fr/account-edition.html).
