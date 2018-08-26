@@ -12,4 +12,4 @@ Un autre utilisateur peut vous donner un accès à un compte dont il est le prop
 Dans ce cas vous pouvez avoir les droits administrateur (admin), le droit de modifier (write)
 ou le droit de de consulter (read).
 
-![Liste des comptes](/assets/account-list.png)
+![Liste des comptes](/assets/account-list.png){:class="img-fluid"}
