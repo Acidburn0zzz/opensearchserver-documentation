@@ -7,13 +7,13 @@ defaults:
   values:
     layout: "default"
     lang: "fr"
-    weight: 10
+    weight: 100
 - scope:
     path: "en"
   values:
     layout: "default"
     lang: "en"
-    weight: 10
+    weight: 100
 - scope:
     path: "README.md"
   values:
@@ -26,3 +26,19 @@ defaults:
     path: "fr/README.md"
   values:
     weight: 0
+- scope:
+    path: "en/account-list.md"
+  values:
+    weight: 1
+- scope:
+    path: "fr/account-list.md"
+  values:
+    weight: 1
+- scope:
+    path: "en/account-edition.md"
+  values:
+    weight: 2
+- scope:
+    path: "fr/account-edition.md"
+  values:
+    weight: 2
