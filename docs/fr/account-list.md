@@ -1,8 +1,7 @@
 Liste des comptes
 =================
 
-Lorsque vous vous connectez sur OpenSearchServer vous accédez
-à la liste des comptes auxquels vous avez accès.
+Lorsque vous vous connectez sur OpenSearchServer, l'interface affiche la liste des comptes auxquels vous avez accès.
 
 Il peut s'agir de votre propre compte si vous en avez créé un. 
 Dans ce cas vous apparaissez comme propriétaire (owner) du compte "owner".
