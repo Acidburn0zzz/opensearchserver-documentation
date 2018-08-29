@@ -1,11 +1,11 @@
 Bienvenue
 =========
 
-OpenSearchServer est un acteur engagé depuis plus de 10 ans pour la vulgarisation des solutions de moteur de recherche.
+Depuis plus de dix ans, OpenSearchServer est un acteur engagé pour la vulgarisation des solutions de moteur de recherche.
 
-Notre objectif est de faciliter au maximum l'accès à des fonctionnalités de recherche à l'état de l'art.
+Notre objectif est de faciliter l'accès à des fonctionnalités de recherche à l'état de l'art.
 
-Nous nous attachons à réduire au maximum la complexité pour vous permettre de vous concentrer sur votre métier.
+Nous réduisons leur complexité pour vous permettre de vous concentrer sur votre métier.
 
 Avec OpenSearchServer 2.0 vous disposez des fonctionnalités principales suivantes:
 
@@ -14,14 +14,13 @@ Avec OpenSearchServer 2.0 vous disposez des fonctionnalités principales suivant
 
 Notre solution est proposée sous deux formes:
 
-- un service hébergé accessible depuis le site [www.opensearchserver.com](http://www.opensearchserver.com),
-- un logiciel téléchargeable sous licence open source (Apache 2).
+- Soit un service hébergé accessible depuis le site [www.opensearchserver.com](http://www.opensearchserver.com).
+- Soit un logiciel téléchargeable sous licence open source (Apache 2).
 
-Dans ces pages, nous allons regrouper toutes les informations utiles vous permettant de réussir
-l'intégration d'OpenSearchServer sur votre site Internet.
+Cette documentation présente les informations pour intégrer OpenSearchServer sur votre site Internet.
 
-Pour tirer le meilleur parti de cette documentation, nous vous mettons à disposition une instance gratuite
-d'OpenSearchServer qui vous permettra de réaliser en quelques minutes une intégration réussie sur votre
+Pour tirer le meilleur parti de ces pages, nous mettons à votre disposition une instance gratuite
+d'OpenSearchServer. Celle ci vous permettra de réaliser en quelques minutes une intégration réussie sur votre
 site Internet.
 
 Pour créer votre compte et votre instance OpenSearchServer 2.0 gratuite,
